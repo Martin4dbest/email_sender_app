@@ -6,11 +6,11 @@ import smtplib
 email_sender = 'martin4dtruth2@gmail.com'
 email_password = password
 
-email_receiver = ['martin4dtruth@gmail.com' , 'pigat77920@jthoven.com']
+email_receiver = ['martin4dtruth@gmail.com' , 'pigat77920@jthoven.com', 'msonibe14@gmail.com']
 
-subject = "Building an email sender"
+subject = "Message to my brother, Michael"
 body = """
-Let us start from here. We will walk you through this ok
+This message is coming from Martin through my email sender app. Enjoy your day
 """
 
 em = EmailMessage()
